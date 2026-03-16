@@ -2,7 +2,7 @@
 name = "projeto1"
 version = "0.1.0"
 description = "Analise espectral em harmonicos esfericos para Geodesia Fisica."
-authors = ["Andre"]
+authors = ["André Leonardi Favalessa"]
 channels = ["conda-forge"]
 platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
 
