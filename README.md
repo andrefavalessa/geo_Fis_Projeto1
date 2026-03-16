@@ -63,7 +63,7 @@ A energia espectral foi calculada por grau a partir da soma das contribuicoes do
 ## Ambiente e tecnologias
 
 - Pixi
-- Python 3.11
+- Python 3.14.3
 - NumPy
 - SciPy
 - Matplotlib

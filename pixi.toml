@@ -1,4 +1,4 @@
-[project]
+[workspace]
 name = "projeto1"
 version = "0.1.0"
 description = "Analise espectral em harmonicos esfericos para Geodesia Fisica."
@@ -11,7 +11,7 @@ run = "python projeto1_solution.py"
 solve = "python projeto1_solution.py"
 
 [dependencies]
-python = "3.11.*"
+python = ">=3.14.3,<3.15"
 numpy = ">=2.2,<3"
 scipy = ">=1.17,<2"
 matplotlib = ">=3.10,<4"
