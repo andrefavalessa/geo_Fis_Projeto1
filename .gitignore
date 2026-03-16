@@ -1,1 +1,4 @@
 .pyuser/
+.pixi/
+__pycache__/
+*.pyc

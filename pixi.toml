@@ -1,0 +1,17 @@
+[project]
+name = "projeto1"
+version = "0.1.0"
+description = "Analise espectral em harmonicos esfericos para Geodesia Fisica."
+authors = ["Andre"]
+channels = ["conda-forge"]
+platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
+
+[tasks]
+run = "python projeto1_solution.py"
+solve = "python projeto1_solution.py"
+
+[dependencies]
+python = "3.11.*"
+numpy = ">=2.2,<3"
+scipy = ">=1.17,<2"
+matplotlib = ">=3.10,<4"
