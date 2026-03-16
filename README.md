@@ -89,7 +89,7 @@ pixi install
 3. Execute o script principal:
 
 ```bash
-pixi run run
+pixi run python projeto1_solution.py
 ```
 
 4. Consulte os resultados gerados:
